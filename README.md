@@ -1,13 +1,13 @@
 <h1 align="center">👨‍💼 JS Personnel App</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/languages/top/username/js-personnel-app?style=for-the-badge">
-  <img src="https://img.shields.io/github/repo-size/username/js-personnel-app?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/username/js-personnel-app?style=for-the-badge">
+  <img src="https://img.shields.io/github/languages/top/dev-yuci/Personel-App?style=for-the-badge">
+  <img src="https://img.shields.io/github/repo-size/dev-yuci/Personel-App?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/dev-yuci/Personel-App?style=for-the-badge">
 </p>
 
 <p align="center">
-  <img src="https://your-project-banner.com/banner.png" alt="Project Banner">
+  <img src="https://github.com/dev-yuci/Personel-App/blob/master/JsPersonelApp-1.png" alt="Project Banner">
 </p>
 
 ## 🌟 **Project Overview**  
@@ -48,8 +48,8 @@ The **JS Personnel App** is a personnel management application developed using J
 
 ## 📸 **Screenshots**  
 <p align="center">
-  <img src="https://your-screenshot-link.com/screenshot1.png" width="400">
-  <img src="https://your-screenshot-link.com/screenshot2.png" width="400">
+  <img src="https://github.com/dev-yuci/Personel-App/blob/master/JsPersonelApp-1.png" width="400">
+  <img src="https://github.com/dev-yuci/Personel-App/blob/master/JsPersonelApp-2.png" width="400">
 </p>
 
 ---
@@ -60,7 +60,7 @@ Follow these steps to set up and run the project:
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/username/js-personnel-app.git
+git clone https://github.com/dev-yuci/Personel-App.git
 
 # 2️⃣ Navigate to the project directory
 cd js-personnel-app
