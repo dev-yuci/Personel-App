@@ -36,7 +36,6 @@ The **JS Personnel App** is a personnel management application developed using J
 - **JavaScript**  
 - **HTML**  
 - **CSS**  
-- (Add any other technologies you may have used)  
 
 ---
 
